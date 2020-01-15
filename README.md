@@ -1,2 +1,5 @@
 # hello-world
-just try to study git
+
+Hi gays!
+
+Hithub! i dont know what i had done, write by myself!
