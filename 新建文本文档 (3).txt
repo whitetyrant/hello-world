@@ -1,0 +1,5 @@
+docker------依存于虚拟机的系统中，用于“打包程序”
+golang——go语言用于“做微服务，搭建框架”
+vs cod-----开发工具（等同于VS2017）
+alpine Link---操作系统
+postgres:12.1-alpine——数据库管理系统
